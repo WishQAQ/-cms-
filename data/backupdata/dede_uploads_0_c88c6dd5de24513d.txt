@@ -1,0 +1,6 @@
+INSERT INTO `dede_uploads` VALUES('1','0','150309/1-15030Z032233I.jpg','/uploads/allimg/150309/1-15030Z032233I.jpg','1','800','181','0','57998','1425832343','1');
+INSERT INTO `dede_uploads` VALUES('2','0','150309/1-15030Z03231627.jpg','/uploads/allimg/150309/1-15030Z03231627.jpg','1','533','800','0','283942','1425832351','1');
+INSERT INTO `dede_uploads` VALUES('3','90','幻灯1','/uploads/allimg/170716/1-1FG6142S10-L.jpg','1','0','0','0','359607','1500186511','1');
+INSERT INTO `dede_uploads` VALUES('4','91','幻灯2','/uploads/allimg/170716/1-1FG6142T50-L.jpg','1','0','0','0','683658','1500186525','1');
+INSERT INTO `dede_uploads` VALUES('5','92','幻灯3','/uploads/allimg/170716/1-1FG6142U90-L.jpg','1','0','0','0','295851','1500186539','1');
+INSERT INTO `dede_uploads` VALUES('6','93','幻灯4','/uploads/allimg/170716/1-1FG61429140-L.jpg','1','0','0','0','1436169','1500186554','1');

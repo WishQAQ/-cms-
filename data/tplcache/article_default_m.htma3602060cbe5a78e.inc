@@ -1,0 +1,46 @@
+<?php
+$z[0]=Array("field","",219,238);
+$z[0][4]=array();
+$z[0][4]['name']="title";
+$z[1]=Array("global","",239,265);
+$z[1][4]=array();
+$z[1][4]['name']="cfg_webname";
+$z[2]=Array("global","",309,339);
+$z[2][4]=array();
+$z[2][4]['name']="cfg_description";
+$z[3]=Array("global","",376,403);
+$z[3][4]=array();
+$z[3][4]['name']="cfg_keywords";
+$z[4]=Array("include","",1158,1197);
+$z[4][4]=array();
+$z[4][4]['filename']="header_m.htm";
+$z[5]=Array("field","",1494,1523);
+$z[5][4]=array();
+$z[5][4]['name']="typename";
+$z[6]=Array("global","",1866,1891);
+$z[6][4]=array();
+$z[6][4]['name']="cfg_cmsurl";
+$z[7]=Array("channel","\r\n        <li><a href=\"list.php?tid=[field:id/]\" title=\"[field:typename/]\">[field:typename/]</a> <span class=\"commonfont class-down\"></span></li>\r\n        ",2393,2721);
+$z[7][4]=array();
+$z[7][4]['type']="son";
+$z[7][4]['row']="10";
+$z[7][4]['currentstyle']="<li class='hover'><a href='list.php?tid=~id~' ~rel~><span>~typename~</span></a> </li>";
+$z[8]=Array("field","",2871,2890);
+$z[8][4]=array();
+$z[8][4]['name']="title";
+$z[9]=Array("field","",2939,2957);
+$z[9][4]=array();
+$z[9][4]['name']="body";
+$z[10]=Array("prenext","",2981,3009);
+$z[10][4]=array();
+$z[10][4]['get']="prewap";
+$z[11]=Array("prenext","",3010,3039);
+$z[11][4]=array();
+$z[11][4]['get']="nextwap";
+$z[12]=Array("type"," <a href=\"list.php?tid=[field:id/]\" title=\"返回列表\" class=\"back\">返回列表</a>",3043,3152);
+$z[12][4]=array();
+$z[13]=Array("include","",3202,3241);
+$z[13][4]=array();
+$z[13][4]['filename']="footer_m.htm";
+
+?>

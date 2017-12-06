@@ -1,0 +1,4 @@
+INSERT INTO `dede_search_keywords` VALUES('1','在这里搜索...','在这里搜索... 在这里 搜索','1','0','1436276740','0','0');
+INSERT INTO `dede_search_keywords` VALUES('2','大','大','1','58','1436276748','0','0');
+INSERT INTO `dede_search_keywords` VALUES('3','恩施大峡谷旅','恩施大峡谷旅 大峡谷 恩施','1','2','1500185586','0','0');
+INSERT INTO `dede_search_keywords` VALUES('4','恩施','恩施','6','60','1500187286','0','0');
